@@ -11,7 +11,7 @@ terraform {
 # Configure the GitHub Provider
 provider "github" {
 
-token = "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"
+token = "ghp_lkLCHnLazhPATWRO3Po9NC8ddfggsdg9IK0Vx1YS56K"
 }
 
 resource "github_repository" "example" {
